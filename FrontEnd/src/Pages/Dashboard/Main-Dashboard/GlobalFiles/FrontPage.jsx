@@ -42,7 +42,7 @@ const FrontPage = () => {
     <div className="container">
       <Sidebar />
       <div className="AfterSideBar">
-        <h1 style={{ color: "rgb(184 191 234)" }}>Overview</h1>
+        <h1 style={{ color: "rgb(184 191 234)" }}>Dashboard</h1>
         <div className="maindiv">
           <div className="one commondiv">
             <div>
